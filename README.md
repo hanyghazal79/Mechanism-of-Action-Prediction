@@ -1,4 +1,4 @@
-[# A Repo for Mechanism of Action competition on Kaggle](https://www.kaggle.com/c/lish-moa)
+# [A Repo for Mechanism of Action competition on Kaggle](https://www.kaggle.com/c/lish-moa)
 
 **What is the Mechanism of Action (MoA) of a drug? And why is it important?**
 
@@ -14,9 +14,9 @@ The task is to develop an algorithm that automatically labels each case in the t
 
 **Data can be downloaded from:**
 
-* [train_features.csv](https://www.kaggle.com/c/lish-moa/data?select=train_features.csv)
+* **[train_features.csv](https://www.kaggle.com/c/lish-moa/data?select=train_features.csv)**
 
-* [train_targets_scored.csv](https://www.kaggle.com/c/lish-moa/data?select=train_targets_scored.csv)
+* **[train_targets_scored.csv](https://www.kaggle.com/c/lish-moa/data?select=train_targets_scored.csv)**
 
 **Files**
 
