@@ -14,15 +14,15 @@ The task is to develop an algorithm that automatically labels each case in the t
 
 **Data can be downloaded from:**
 
-* **[train_features.csv]**(https://www.kaggle.com/c/lish-moa/data?select=train_features.csv)
+* [train_features.csv](https://www.kaggle.com/c/lish-moa/data?select=train_features.csv)
 
-* **[train_targets_scored.csv]**(https://www.kaggle.com/c/lish-moa/data?select=train_targets_scored.csv)
+* [train_targets_scored.csv](https://www.kaggle.com/c/lish-moa/data?select=train_targets_scored.csv)
 
 **Files**
 
-* train_features.csv - Features for the training set. Features g- signify gene expression data, and c- signify cell viability data. cp_type indicates samples treated with a compound (cp_vehicle) or with a control perturbation (ctrl_vehicle); control perturbations have no MoAs; cp_time and cp_dose indicate treatment duration (24, 48, 72 hours) and dose (high or low).
+* **train_features.csv** - Features for the training set. Features g- signify gene expression data, and c- signify cell viability data. cp_type indicates samples treated with a compound (cp_vehicle) or with a control perturbation (ctrl_vehicle); control perturbations have no MoAs; cp_time and cp_dose indicate treatment duration (24, 48, 72 hours) and dose (high or low).
 
-* train_targets_scored.csv - The binary MoA targets that are scored.
+* **train_targets_scored.csv** - The binary MoA targets that are scored.
 
 This repo contains the following files:
 * **[DataExploration-and-visulization.ipynb](DataExploration-and-visulization.ipynb)** (for submission): This notebook contains the code for visualization and data explorations.
