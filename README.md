@@ -14,9 +14,9 @@ The task is to develop an algorithm that automatically labels each case in the t
 
 **Data can be downloaded from:**
 
-* **[train_features.csv](https://www.kaggle.com/c/lish-moa/data?select=train_features.csv)**
+* **[train_features.csv]**(https://www.kaggle.com/c/lish-moa/data?select=train_features.csv)
 
-* **[train_targets_scored.csv](https://www.kaggle.com/c/lish-moa/data?select=train_targets_scored.csv)**
+* **[train_targets_scored.csv]**(https://www.kaggle.com/c/lish-moa/data?select=train_targets_scored.csv)
 
 **Files**
 
